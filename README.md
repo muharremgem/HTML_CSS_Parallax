@@ -1,6 +1,5 @@
 # HTML_CSS_Parallax
 Clarusway
-# HTML_CSS_TeamMembers 
 
 
 ## Description
